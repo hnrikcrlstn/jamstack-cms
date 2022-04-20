@@ -3,7 +3,6 @@ backend:
   branch: main
   repo: hnrikcrlstn/jamstack-cms
 
-site_url: jamstack.carlstein.dev
 publish_mode: editorial_workflow
 locale: 'sv'
 
